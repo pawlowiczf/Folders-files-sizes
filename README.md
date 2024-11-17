@@ -7,7 +7,7 @@ Get list of biggest folders or biggest files in a particular directory:
 1. Download foldersize.exe or foldersize.  
 2. Add path to foldersize.exe in environmental variables.  
 3. Run terminal as admin.  
-4. Navigate through folders and run following commands:
+4. Navigate through folders and execute variations of following commands:
 ```sh
 foldersize.exe --mode biggest-dirs --amount 5 --dir "C:\"
 foldersize.exe --mode biggest-files --amount 6
